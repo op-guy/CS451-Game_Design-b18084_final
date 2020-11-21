@@ -1,4 +1,6 @@
-Final Project Submission for course CS-451 Game Design
+Final Project Submission for 
+Course CS-451 Game Design
+
 Course Instructor - Mr. Jinesh Machchhar
 
 By 
