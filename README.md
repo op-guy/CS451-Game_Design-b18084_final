@@ -1,8 +1,8 @@
-#Final Project Submission for 
-#Course CS-451 Game Design
+# Final Project Submission for 
+# Course CS-451 Game Design
 
-##Course Instructor - Mr. Jinesh Machchhar
+## Course Instructor - Mr. Jinesh Machchhar
 
-##By 
-##Saatvik Chugh
-##b18084
+## By 
+## Saatvik Chugh
+## b18084
